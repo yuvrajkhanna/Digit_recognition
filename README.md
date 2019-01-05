@@ -55,3 +55,5 @@ predict the test case<br/>
 remember output would be 1x10 vector for each image convert it into 1x1 choosing index of max value among them<br/>
 save it in dataframe and create csv file.<br/>
 ![](images/digit_10.PNG)
+
+please share if this helped :)
