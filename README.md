@@ -1,4 +1,4 @@
-# Digit_recognition
+# Digit Recognition
 Digit recognition using **keras** model:
 
 import required libraries
