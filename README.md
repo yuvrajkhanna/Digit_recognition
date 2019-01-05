@@ -48,7 +48,7 @@ we can create more data by **data augementation** method which simpy changes ima
 solving our problem of having less data. :) <br/>
 ![](images/digit_8.PNG)
 
-train the model:<br/>
+train the model(by the way verbose means how you want to show your training process)<br/>
 ![](images/digit_9.PNG)
 
 predict the test case<br/>
