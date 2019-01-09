@@ -1,7 +1,6 @@
 # Digit Recognition
-**Digit recognition using keras model:<br/>
+Digit recognition using keras model:<br/>
 training custom made model on MNIST dataset using keras<br/>
-**
 
 
 **EXPLANATION**<br/>
