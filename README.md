@@ -1,6 +1,10 @@
 # Digit Recognition
-Digit recognition using **keras** model:
+**Digit recognition using keras model:<br/>
+training custom made model on MNIST dataset using keras<br/>
+**
 
+
+**EXPLANATION**<br/>
 import required libraries
 ![](images/digit_1.PNG)
 
